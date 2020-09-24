@@ -76,7 +76,7 @@
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left" data-aos-delay="200">
-          <img src="assets/img/wb/gambar-1.png" class="img-fluid animated" alt="">
+          <img src="assets/img/wb/logo_atas.png" class="img-fluid animated" alt="">
         </div>
       </div>
     </div>
@@ -85,11 +85,8 @@
 
   <main id="main">
 
-    <!-- ======= Clients Section ======= -->
-    </section><!-- End Clients Section -->
-
     <!-- ======= About Us Section ======= -->
-    <section id="about" class="about">
+    <section id="about" class="about section-bg-white">
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
@@ -113,10 +110,10 @@
     </section><!-- End About Us Section -->
 
     <!-- ======= Portfolio Section ======= -->
-    <section id="produk" class="portfolio">
+    <section id="produk" class="portfolio section-bg">
       <div class="container">
 
-        <div class="section-title" data-aos="fade-up">
+        <div class="section-title-productx" data-aos="fade-up">
           <h2>Produk</h2>
         </div>
 
@@ -134,12 +131,61 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/kaos/kaos_wb4.jpg" class="img-fluid" alt="">
+              <img src="assets/img/wb/NOT FOUND.jpg" class="img-fluid" alt="">
+              
               <div class="portfolio-info">
-                <h4>App 1</h4>
-                <p>App</p>
+          
                 <div class="portfolio-links">
-                  <a href="assets/img/kaos/kaos_wb2.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/wb/NOT FOUND.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+            <h6>Not FounD #Black</h6>
+            <h4>Rp. 100.000</h4>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/wb/NOT FOUND.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <div class="portfolio-links">
+                  <a href="assets/img/wb/NOT FOUND.jpg" data-gall="portfolioGallery" class="venobox" title="Web 1"><i>Beli</i></a>
+                  <a href="portfolio-details.html" title="More Details"><i</i></a>
+                </div>
+              </div>
+            </div>
+            <h6>WB Productions #Maroon</h6>
+            <h4>Rp. 100.000</h4>
+            
+            <ul id="portfolio-beli">
+              <li class="filter-active">Beli</li>
+            </ul>
+          
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/wb/NOT FOUND.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+          
+                <div class="portfolio-links">
+                  <a href="assets/img/wb/NOT FOUND.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"></a>
+                  <a href="portfolio-details.html" title="More Details"><i></i></a>
+                </div>
+              </div>
+            </div>
+            <h6>WB Productions #Maroon</h6>
+            <h4>Rp. 100.000</h4>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/wb/NOT FOUND.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+          
+                <div class="portfolio-links">
+                  <a href="assets/img/wb/NOT FOUND.jpg" data-gall="portfolioGallery" class="venobox" title="Design 1"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -150,114 +196,78 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/kaos/kaos_wb1.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>WB Productions #Black</h4>
-                <p>Rp. 100.000</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/kaos/kaos_wb1.jpg" data-gall="portfolioGallery" class="venobox" title="Web 1"><i class="bx bx-plus">Beli</i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/kaos/kaos_wb3.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>App 2</h4>
-                <p>App</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/kaos/kaos_wb3.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Design 1</h4>
-                <p>Design</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox" title="Design 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+              <img src="assets/img/wb/NOT FOUND.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Web 2</h4>
                 <p>Web</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/wb/NOT FOUND.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
+            <h6>WB Productions #Maroon</h6>
+            <h4>Rp. 100.000</h4>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/app-3.png" class="img-fluid" alt="">
+              <img src="assets/img/wb/NOT FOUND.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 3</h4>
-                <p>App</p>
+        
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/app-3.png" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/wb/NOT FOUND.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
+            <h6>WB Productions #Maroon</h6>
+            <h4>Rp. 100.000</h4>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+              <img src="assets/img/wb/NOT FOUND.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Design 2</h4>
-                <p>Design</p>
+        
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-7.jpg" data-gall="portfolioGallery" class="venobox" title="Design 2"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/wb/NOT FOUND.jpg" data-gall="portfolioGallery" class="venobox" title="Design 2"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
+            <h6>WB Productions #Maroon</h6>
+            <h4>Rp. 100.000</h4>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+              <img src="assets/img/wb/NOT FOUND.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Design 3</h4>
-                <p>Design</p>
+        
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" class="venobox" title="Design 3"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/wb/NOT FOUND.jpg" data-gall="portfolioGallery" class="venobox" title="Design 3"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
-          </div>
+            <h6>WB Productions #Maroon</h6>
+            <h4>Rp. 100.000</h4>
+          </
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+              <img src="assets/img/wb/NOT FOUND.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
+      
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/wb/NOT FOUND.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
+            <h6>WB Productions #Maroon</h6>
+            <h4>Rp. 100.000</h4>
           </div>
 
         </div>
@@ -266,7 +276,7 @@
     </section><!-- End Portfolio Section -->
 
         <!-- ======= Services Section ======= -->
-        <section id="services" class="services section-bg">
+    <section id="services" class="services section-bg">
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
@@ -315,9 +325,6 @@
     <!-- ======= Team Section ======= -->
     <section id="team" class="team section-bg">
     </section><!-- End Team Section -->
-
-    <!-- ======= F.A.Q Section ======= -->
-    </section><!-- End F.A.Q Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact section-bg">
