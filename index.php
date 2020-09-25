@@ -43,7 +43,7 @@
     <div class="container d-flex align-items-center">
 
       <div class="logo mr-auto">
-        <img src="assets/img/wb/Not.Found.png" alt="">
+        <img src="assets/img/wb/Not_found.png" alt="">
         <!-- <h1 class="text-light"><a href="index.html"><span>WB productions</span></a></h1> -->
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
@@ -112,171 +112,86 @@
     <!-- ======= Portfolio Section ======= -->
     <section id="produk" class="portfolio section-bg">
       <div class="container">
-
-        <div class="section-title-productx" data-aos="fade-up">
-          <h2>Produk</h2>
-        </div>
-
-        <div class="row" data-aos="fade-up" data-aos-delay="200">
-          <div class="col-lg-12 d-flex justify-content-center">
-            <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">Semua</li>
-              <li data-filter=".filter-app">Koas</li>
-              <li data-filter=".filter-card">Jaket</li>
-            </ul>
+          <div class="section-title-productx" data-aos="fade-up">
+            <h2>Produk</h2>
           </div>
-        </div>
 
-        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="400">
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/wb/NOT FOUND.jpg" class="img-fluid" alt="">
-              
-              <div class="portfolio-info">
+          <div class="row" data-aos="fade-up" data-aos-delay="200">
+            <div class="col-lg-12 d-flex justify-content-center">
+              <ul id="portfolio-flters">
+                <li data-filter="*" class="filter-active">Semua</li>
+                <li data-filter=".filter-app">Kaos</li>
+              </ul>
+            </div>
+          </div>
           
-                <div class="portfolio-links">
-                  <a href="assets/img/wb/NOT FOUND.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+            <div class="row portfolio-container portfolio-details" data-aos="fade-up" data-aos-delay="400">
+              <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                <div class="border-item-kaos">
+                  <div class="owl-carousel portfolio-details-carousel">
+                    <img src="assets/img/wb/kaos_depan1.png" class="img-fluid" alt="">
+                    <img src="assets/img/wb/kaos_belakang1.png" class="img-fluid" alt="">
+                  </div>
+                  <br>
+                  <center>
+                    <div class="idr">
+                      <h4>404 | Not Found</h4>
+                      <h5>IDR 100.000</h5>
+                    </div>
+                    <br>
+                    <ul id="portfolio-beli">
+                      <li class="filter-active"><a href="https:/s.id/WBproductions" target="_blank">Beli</a></li>
+                      <li class="filter-active"><a href="kaos-details.php">Detail</a></li>
+                    </ul>
+                  </center>
                 </div>
               </div>
-            </div>
-            <h6>Not FounD #Black</h6>
-            <h4>Rp. 100.000</h4>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="assets/img/wb/NOT FOUND.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <div class="portfolio-links">
-                  <a href="assets/img/wb/NOT FOUND.jpg" data-gall="portfolioGallery" class="venobox" title="Web 1"><i>Beli</i></a>
-                  <a href="portfolio-details.html" title="More Details"><i</i></a>
+              <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                <div class="border-item-kaos">
+                  <div class="owl-carousel portfolio-details-carousel">
+                    <img src="assets/img/wb/kaos_depan1.png" class="img-fluid" alt="">
+                    <img src="assets/img/wb/kaos_belakang1.png" class="img-fluid" alt="">
+                  </div>
+                  <br>
+                  <center>
+                    <div class="idr">
+                      <h4>404 | Not Found</h4>
+                      <h5>IDR 100.000</h5>
+                    </div>
+                    <br>
+                    <ul id="portfolio-beli">
+                      <li class="filter-active"><a href="https:/s.id/WBproductions" target="_blank">Beli</a></li>
+                      <li class="filter-active"><a href="kaos-details.php">Detail</a></li>
+                    </ul>
+                  </center>
                 </div>
               </div>
-            </div>
-            <h6>WB Productions #Maroon</h6>
-            <h4>Rp. 100.000</h4>
-            
-            <ul id="portfolio-beli">
-              <li class="filter-active">Beli</li>
-            </ul>
-          
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/wb/NOT FOUND.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-          
-                <div class="portfolio-links">
-                  <a href="assets/img/wb/NOT FOUND.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"></a>
-                  <a href="portfolio-details.html" title="More Details"><i></i></a>
+              <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                <div class="border-item-kaos">
+                  <div class="owl-carousel portfolio-details-carousel">
+                    <img src="assets/img/wb/kaos_depan1.png" class="img-fluid" alt="">
+                    <img src="assets/img/wb/kaos_belakang1.png" class="img-fluid" alt="">
+                  </div>
+                  <br>
+                  <center>
+                    <div class="idr">
+                      <h4>404 | Not Found</h4>
+                      <h5>IDR 100.000</h5>
+                    </div>
+                    <br>
+                    <ul id="portfolio-beli">
+                      <li class="filter-active"><a href="https:/s.id/WBproductions" target="_blank">Beli</a></li>
+                      <li class="filter-active"><a href="kaos-details.php">Detail</a></li>
+                    </ul>
+                  </center>
                 </div>
               </div>
-            </div>
-            <h6>WB Productions #Maroon</h6>
-            <h4>Rp. 100.000</h4>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/wb/NOT FOUND.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-          
-                <div class="portfolio-links">
-                  <a href="assets/img/wb/NOT FOUND.jpg" data-gall="portfolioGallery" class="venobox" title="Design 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-            <h6>WB Productions #Maroon</h6>
-            <h4>Rp. 100.000</h4>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="assets/img/wb/NOT FOUND.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Web 2</h4>
-                <p>Web</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/wb/NOT FOUND.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-            <h6>WB Productions #Maroon</h6>
-            <h4>Rp. 100.000</h4>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="assets/img/wb/NOT FOUND.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-        
-                <div class="portfolio-links">
-                  <a href="assets/img/wb/NOT FOUND.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-            <h6>WB Productions #Maroon</h6>
-            <h4>Rp. 100.000</h4>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/wb/NOT FOUND.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-        
-                <div class="portfolio-links">
-                  <a href="assets/img/wb/NOT FOUND.jpg" data-gall="portfolioGallery" class="venobox" title="Design 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-            <h6>WB Productions #Maroon</h6>
-            <h4>Rp. 100.000</h4>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/wb/NOT FOUND.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-        
-                <div class="portfolio-links">
-                  <a href="assets/img/wb/NOT FOUND.jpg" data-gall="portfolioGallery" class="venobox" title="Design 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-            <h6>WB Productions #Maroon</h6>
-            <h4>Rp. 100.000</h4>
-          </
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="assets/img/wb/NOT FOUND.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-      
-                <div class="portfolio-links">
-                  <a href="assets/img/wb/NOT FOUND.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-            <h6>WB Productions #Maroon</h6>
-            <h4>Rp. 100.000</h4>
-          </div>
-
-        </div>
-
+            </div> 
       </div>
     </section><!-- End Portfolio Section -->
 
         <!-- ======= Services Section ======= -->
-    <section id="services" class="services section-bg">
+    <section id="services" class="services section-bg-white">
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
@@ -289,7 +204,7 @@
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="bx bx-alarm"></i></div>
               <h4 class="title"><a href="">Fast Response</a></h4>
-              <p class="description">The average response is 1 hour</p>
+              <p class="description service-teks">The average response is 1 hour</p>
             </div>
           </div>
 
@@ -297,7 +212,7 @@
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
               <h4 class="title"><a href="">Fast Processing </a></h4>
-              <p class="description">The average processing time is 3 to 7 days</p>
+              <p class="description service-teks">The average processing time is 3 to 7 days</p>
             </div>
           </div>
 
@@ -305,7 +220,7 @@
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
               <div class="icon"><i class="bx bx-laptop"></i></div>
               <h4 class="title"><a href="">Professional</a></h4>
-              <p class="description">4 years of experience in information technology</p>
+              <p class="description service-teks">4 years of experience in information technology</p>
             </div>
           </div>
 
@@ -313,7 +228,7 @@
             <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
               <div class="icon"><i class="bx bx-money"></i></div>
               <h4 class="title"><a href="">Save Money</a></h4>
-              <p class="description">Save your money guys!</p>
+              <p class="description service-teks">Save your money guys!</p>
             </div>
           </div>
 
@@ -322,15 +237,11 @@
       </div>
     </section><!-- End Services Section -->
 
-    <!-- ======= Team Section ======= -->
-    <section id="team" class="team section-bg">
-    </section><!-- End Team Section -->
-
     <!-- ======= Contact Section ======= -->
-    <section id="contact" class="contact section-bg">
+    <section id="contact" class="contact section-bg-black ">
       <div class="container">
 
-        <div class="section-title" data-aos="fade-up">
+        <div class="section-title-contact" data-aos="fade-up">
           <h2>Contact Us</h2>
         </div>
 
@@ -338,7 +249,7 @@
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="contact-about">
-              <h3>WB productions</h3>
+              <h3>Not FounD.</h3>
               
               <div class="social-links">
                 <a href="https://www.youtube.com/channel/UCXvIXhB_BfYe2YrlDHMqsNw" target="_blank" class="youtube"><i class="icofont-youtube"></i></a>
