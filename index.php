@@ -52,11 +52,10 @@
       <nav class="nav-menu d-none d-lg-block">
         <ul>
           <li class="active"><a href="#index.html">Home</a></li>
-          <li><a href="#about">About</a></li>
+          <li><a href="#Tentang">Tentang</a></li>
+          <li><a href="#Produk">Produk</a></li>
           <li><a href="#services">Services</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>
-          <li><a href="#team">Team</a></li>
-          <li class="get-started"><a href="#contact">Contact Us</a></li>
+          <li class="get-started"><a href="#contact">Contact</a></li>
         </ul>
       </nav><!-- .nav-menu -->
 
@@ -86,9 +85,8 @@
   <main id="main">
 
     <!-- ======= About Us Section ======= -->
-    <section id="about" class="about section-bg-white">
+    <section id="Tentang" class="Tentang section-bg-white">
       <div class="container">
-
         <div class="section-title" data-aos="fade-up">
           <h2>Tentang</h2>
         </div>
@@ -110,7 +108,7 @@
     </section><!-- End About Us Section -->
 
     <!-- ======= Portfolio Section ======= -->
-    <section id="produk" class="portfolio section-bg">
+    <section id="Produk" class="portfolio section-bg">
       <div class="container">
           <div class="section-title-productx" data-aos="fade-up">
             <h2>Produk</h2>
@@ -191,7 +189,7 @@
     </section><!-- End Portfolio Section -->
 
         <!-- ======= Services Section ======= -->
-    <section id="services" class="services section-bg-white">
+    <section id="Services" class="services section-bg-white">
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
