@@ -194,7 +194,7 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Services</h2>
-          <p>We have the best of several service, that is :</p>
+          <p>Kami memiliki pelayanan yang sangat baik</p>
         </div>
 
         <div class="row">
@@ -202,15 +202,15 @@
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="bx bx-alarm"></i></div>
               <h4 class="title"><a href="">Fast Response</a></h4>
-              <p class="description service-teks">The average response is 1 hour</p>
+              <p class="description service-teks">Respon kami rata-rata 10 sampai 15 menit</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4 class="title"><a href="">Fast Processing </a></h4>
-              <p class="description service-teks">The average processing time is 3 to 7 days</p>
+              <h4 class="title"><a href="">Proses Cepat</a></h4>
+              <p class="description service-teks">Waktu pemrosesan rata-rata adalah 3 hingga 7 hari</p>
             </div>
           </div>
 
