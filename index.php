@@ -51,10 +51,10 @@
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
-          <li class="active"><a href="#index.html">Home</a></li>
+          <li class="active"><a href="#hero">Home</a></li>
           <li><a href="#Tentang">Tentang</a></li>
           <li><a href="#Produk">Produk</a></li>
-          <li><a href="#services">Services</a></li>
+          <li><a href="#Services">Services</a></li>
           <li class="get-started"><a href="#contact">Contact</a></li>
         </ul>
       </nav><!-- .nav-menu -->
@@ -209,7 +209,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4 class="title"><a href="">Proses Cepat</a></h4>
+              <h5 class="title"><a href="">Proses Cepat</a></h4>
               <p class="description service-teks">Waktu pemrosesan rata-rata adalah 3 hingga 7 hari</p>
             </div>
           </div>
@@ -265,7 +265,7 @@
 
               <div>
                 <i class="ri-mail-send-line"></i>
-                <p>wb.productions2020@gmail.com</p>
+                <p>cs@wb-productions.id</p>
               </div>
 
               <div>
