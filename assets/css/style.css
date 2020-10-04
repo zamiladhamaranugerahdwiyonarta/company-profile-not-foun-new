@@ -106,7 +106,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo h1 a, #header .logo h1 a:hover {
-  color: #222222;
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -1563,7 +1563,7 @@ section {
 # Breadcrumbs
 --------------------------------------------------------------*/
 .breadcrumbs {
-  padding: 15px 0;
+  padding: 10px 0;
   background: #f8f8f8;
   min-height: 40px;
   margin-top: 86px;
@@ -1623,7 +1623,7 @@ section {
 # Portfolio Details
 --------------------------------------------------------------*/
 .portfolio-details {
-  padding-top: 20px;
+  padding-top: 0px;
 }
 
 .portfolio-details .portfolio-title {
