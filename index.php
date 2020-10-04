@@ -63,13 +63,13 @@
   </header><!-- End Header -->
 
   <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex align-items-center">
+  <section id="hero" class="d-flex align-items-center section-bg-white">
 
     <div class="container">
       <div class="row">
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
           <h1 data-aos="fade-up"> Not FounD.</h1>
-          <h2 data-aos="fade-up" data-aos-delay="400">Kaos dengan desain yang simple, dengan kualitas yang tidak main-main.</h2>
+          <h2 data-aos="fade-up" data-aos-delay="400">Kaosnya anak error, dengan harga yang main-main tetapi tidak dengan kualitas yang main-main.</h2>
           <div data-aos="fade-up" data-aos-delay="800">
             <a href="https:/s.id/WBproductions" target="_blank" class="btn-get-started scrollto">Beli Sekarang</a>
           </div>
@@ -85,7 +85,7 @@
   <main id="main">
 
     <!-- ======= About Us Section ======= -->
-    <section id="Tentang" class="Tentang section-bg-white">
+    <section id="Tentang" class="Tentang">
       <div class="container">
         <div class="section-title" data-aos="fade-up">
           <h2>Tentang</h2>
@@ -108,7 +108,7 @@
     </section><!-- End About Us Section -->
 
     <!-- ======= Portfolio Section ======= -->
-    <section id="Produk" class="portfolio section-bg">
+    <section id="Produk" class="portfolio section-bg-white">
       <div class="container">
           <div class="section-title-productx" data-aos="fade-up">
             <h2>Produk</h2>
@@ -123,47 +123,7 @@
             </div>
           </div>
           
-            <div class="row portfolio-container portfolio-details" data-aos="fade-up" data-aos-delay="400">
-              <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                <div class="border-item-kaos">
-                  <div class="owl-carousel portfolio-details-carousel">
-                    <img src="assets/img/wb/kaos_depan1.png" class="img-fluid" alt="">
-                    <img src="assets/img/wb/kaos_belakang1.png" class="img-fluid" alt="">
-                  </div>
-                  <br>
-                  <center>
-                    <div class="idr">
-                      <h4>404 | Not Found</h4>
-                      <h5>IDR 100.000</h5>
-                    </div>
-                    <br>
-                    <ul id="portfolio-beli">
-                      <li class="filter-active"><a href="https:/s.id/WBproductions" target="_blank">Beli</a></li>
-                      <li class="filter-active"><a href="kaos-details.php">Detail</a></li>
-                    </ul>
-                  </center>
-                </div>
-              </div>
-              <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                <div class="border-item-kaos">
-                  <div class="owl-carousel portfolio-details-carousel">
-                    <img src="assets/img/wb/kaos_depan1.png" class="img-fluid" alt="">
-                    <img src="assets/img/wb/kaos_belakang1.png" class="img-fluid" alt="">
-                  </div>
-                  <br>
-                  <center>
-                    <div class="idr">
-                      <h4>404 | Not Found</h4>
-                      <h5>IDR 100.000</h5>
-                    </div>
-                    <br>
-                    <ul id="portfolio-beli">
-                      <li class="filter-active"><a href="https:/s.id/WBproductions" target="_blank">Beli</a></li>
-                      <li class="filter-active"><a href="kaos-details.php">Detail</a></li>
-                    </ul>
-                  </center>
-                </div>
-              </div>
+            <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="400">
               <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                 <div class="border-item-kaos">
                   <div class="owl-carousel portfolio-details-carousel">
@@ -189,7 +149,7 @@
     </section><!-- End Portfolio Section -->
 
         <!-- ======= Services Section ======= -->
-    <section id="Services" class="services section-bg-white">
+    <section id="Services" class="services">
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
@@ -197,16 +157,16 @@
           <p>Kami memiliki pelayanan yang sangat baik</p>
         </div>
 
-        <div class="row">
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+        <div class="row justify-content-center">
+          <div class="col-md-4 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="bx bx-alarm"></i></div>
-              <h4 class="title"><a href="">Fast Response</a></h4>
+              <h4 class="title"><a href="">Respon Cepat</a></h4>
               <p class="description service-teks">Respon kami rata-rata 10 sampai 15 menit</p>
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+          <div class="col-md-4 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
               <h5 class="title"><a href="">Proses Cepat</a></h4>
@@ -214,19 +174,11 @@
             </div>
           </div>
 
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
-              <div class="icon"><i class="bx bx-laptop"></i></div>
-              <h4 class="title"><a href="">Professional</a></h4>
-              <p class="description service-teks">4 years of experience in information technology</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
-              <div class="icon"><i class="bx bx-money"></i></div>
-              <h4 class="title"><a href="">Save Money</a></h4>
-              <p class="description service-teks">Save your money guys!</p>
+          <div class="col-md-4 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+              <div class="icon"><i class="bx bx-tachometer"></i></div>
+              <h5 class="title"><a href="">Kuliatas</a></h4>
+              <p class="description service-teks">Kualitas yang tidak main-main.</p>
             </div>
           </div>
 
@@ -323,9 +275,8 @@
             <!-- You can delete the links only if you purchased the pro version. -->
             <!-- Licensing information: https://bootstrapmade.com/license/ -->
             <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/vesperr-free-bootstrap-template/ -->
-            Designed by <a href="https://bootstrapmade.com/" target="_blank" >BootstrapMade</a>, Image by <a href="https://www.freepik.com/free-vector/web-design-landing-page-template_5061659.htm#query=web-templates&position=22" target="_blank">pikisuperstar
+            Designed by <a href="https://bootstrapmade.com/" target="_blank" >BootstrapMade</a>
           </div>
-          
         </div>
       </div>
     </div>

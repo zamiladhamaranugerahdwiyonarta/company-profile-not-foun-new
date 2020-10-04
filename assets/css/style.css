@@ -784,7 +784,7 @@ section {
   padding: 30px;
   position: relative;
   overflow: hidden;
-  background: #333333;
+  background: #151414;
   box-shadow: 0 0 29px 0 rgba(68, 88, 144, 0.12);
   transition: all 0.3s ease-in-out;
   border-radius: 8px;
@@ -794,7 +794,7 @@ section {
 .services .icon-box::before {
   content: '';
   position: absolute;
-  background: #f7ecc4;
+  background: #f1d460;
   right: -60px;
   top: -40px;
   width: 100px;
@@ -828,7 +828,7 @@ section {
 .services .icon i {
   font-size: 36px;
   line-height: 1;
-  color: #fff;
+  color: #151414;
 }
 
 .services .title {
@@ -852,7 +852,7 @@ section {
 }
 
 .services .icon-box:hover .icon {
-  background: #fff;
+  background:#151414;
 }
 
 .services .icon-box:hover .icon i {
@@ -1436,7 +1436,7 @@ section {
   font-size: 18px;
   display: inline-block;
   background: #fff;
-  color: #fad852;
+  color: #151414;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -1449,8 +1449,8 @@ section {
 }
 
 .contact .social-links a:hover {
-  background: #f1d460;
-  color: #fff;
+  background: #fad852;
+  color: #151414;
 }
 
 .contact .info {
