@@ -1480,11 +1480,11 @@ section {
 
 .contact .php-email-form .error-message {
   display: none;
-  color: #fff;
-  background: #ed3c0d;
+  color: rgb(0, 0, 0);
+  background: #fad852;
   text-align: left;
   padding: 15px;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .contact .php-email-form .error-message br + br {
@@ -1494,7 +1494,7 @@ section {
 .contact .php-email-form .sent-message {
   display: none;
   color: #fff;
-  background: #18d26e;
+  background: #f9ca0e;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1509,12 +1509,13 @@ section {
 
 .contact .php-email-form .loading:before {
   content: "";
-  display: inline-block;
+  display: inherit;
   border-radius: 50%;
   width: 24px;
   height: 24px;
-  margin: 0 10px -6px 0;
-  border: 3px solid #18d26e;
+  text-align: center;
+  margin: auto;
+  border: 3px solid #000000;
   border-top-color: #eee;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
